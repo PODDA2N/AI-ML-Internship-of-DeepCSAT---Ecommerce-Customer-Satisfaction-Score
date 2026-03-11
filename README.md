@@ -1,10 +1,12 @@
 # AI-ML-Internship-of-DeepCSAT---Ecommerce-Customer-Satisfaction-Score
 
-Project Overview
+Project Overview:
+
 This project was completed as part of my Python/AI-ML Internship, focusing on analyzing customer support interactions in an eCommerce environment. The goal of the project is to understand the key factors influencing Customer Satisfaction (CSAT Score) and to build predictive models that estimate customer satisfaction based on operational, transactional, and textual data.
 The dataset contains customer service interaction details such as communication channel, issue category, product information, order details, agent handling time, and textual customer feedback. Through data analysis, visualization, and machine learning techniques, the project aims to uncover meaningful insights that can help improve customer service performance and overall customer experience.
 
-Dataset Description
+Dataset Description:
+
 The dataset contains customer support interaction records with the following key variables:
 •	Unique id – Unique identifier for each interaction record
 •	channel_name – Channel through which the customer contacted support
@@ -24,7 +26,8 @@ The dataset contains customer support interaction records with the following key
 •	Agent Shift – Shift in which the issue was handled
 •	CSAT Score – Customer satisfaction rating given after issue resolution
 
-Project Workflow
+Project Workflow:
+
 1. Understanding Variables
 •	Reviewed dataset structure and variable types
 •	Identified categorical, numerical, textual, and datetime variables
