@@ -1,11 +1,11 @@
-# AI-ML-Internship-of-DeepCSAT---Ecommerce-Customer-Satisfaction-Score
+# 📌 AI-ML-Internship-of-DeepCSAT---Ecommerce-Customer-Satisfaction-Score
 
-Project Overview:
+📊 Project Overview:
 
 This project was completed as part of my Python/AI-ML Internship, focusing on analyzing customer support interactions in an eCommerce environment. The goal of the project is to understand the key factors influencing Customer Satisfaction (CSAT Score) and to build predictive models that estimate customer satisfaction based on operational, transactional, and textual data.
 The dataset contains customer service interaction details such as communication channel, issue category, product information, order details, agent handling time, and textual customer feedback. Through data analysis, visualization, and machine learning techniques, the project aims to uncover meaningful insights that can help improve customer service performance and overall customer experience.
 
-Dataset Description:
+🔹 Dataset Description:
 
 The dataset contains customer support interaction records with the following key variables:
 •	Unique id – Unique identifier for each interaction record
@@ -26,7 +26,7 @@ The dataset contains customer support interaction records with the following key
 •	Agent Shift – Shift in which the issue was handled
 •	CSAT Score – Customer satisfaction rating given after issue resolution
 
-Project Workflow:
+🔹 Project Workflow:
 
 1. Understanding Variables
 •	Reviewed dataset structure and variable types
@@ -83,15 +83,15 @@ Machine learning models were implemented to predict Customer Satisfaction Score 
 Regression Task
 A regression model was trained to predict the numerical CSAT score using relevant features from the dataset.
 
-Model Evaluation
-Regression Model Evaluation
-Regression models were evaluated using the following metrics:
+🔹 Model Evaluation
+✅ Regression Model Evaluation
+✅ Regression models were evaluated using the following metrics:
 •	R² Score
 •	Mean Squared Error (MSE)
 •	Root Mean Squared Error (RMSE)
 These metrics measure how well the model predicts the actual CSAT score.
 
-Classification Model Evaluation
+✅ Classification Model Evaluation
 For classification tasks, model performance was evaluated using:
 •	Accuracy
 •	Precision
@@ -99,11 +99,11 @@ For classification tasks, model performance was evaluated using:
 •	F1 Score
 These metrics assess how well the model classifies customer satisfaction levels.
 
-Cross Validation
+✅ Cross Validation
 To ensure model robustness and prevent overfitting, Cross Validation techniques were applied during model training.
 This helps evaluate model performance on multiple data splits and ensures better generalization.
 
-Hyperparameter Tuning
+✅ Hyperparameter Tuning
 Hyperparameter optimization was performed using GridSearchCV to identify the best combination of parameters for improving model performance.
 This step helps enhance model accuracy and predictive capability.
 
@@ -135,7 +135,7 @@ Technologies Used
 •	TensorFlow / Keras
 •	Natural Language Processing (NLP)
 
-Project Outcome
+🚀 Project Outcome
 This project demonstrates the use of data analysis, visualization, NLP, and machine learning techniques to analyze customer service interactions and predict customer satisfaction in an eCommerce environment.
 The insights generated can help organizations:
 •	Improve customer support processes
